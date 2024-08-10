@@ -9,3 +9,6 @@ mysql-connector-python
 pymysql
 sentence-transformers
 chromadb
+tiktoken
+faiss-cpu
+pypika
